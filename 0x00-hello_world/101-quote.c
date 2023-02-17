@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  * main - Task eight
- * Return:
+ * Return: 1
  */
 int main(void)
 {
